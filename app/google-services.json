@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085239346676",
+    "firebase_url": "https://pushcheezy.firebaseio.com",
+    "project_id": "pushcheezy",
+    "storage_bucket": "pushcheezy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085239346676:android:4db3f7e07d494bd7",
+        "android_client_info": {
+          "package_name": "gct.example.com.firebasecheezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085239346676-ve8s54vqabr1api9i4ov2kd3h5ach5ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gct.example.com.firebasecheezy",
+            "certificate_hash": "31fa4f759cebc4dfc873a8282878531205bd9419"
+          }
+        },
+        {
+          "client_id": "1085239346676-9j5eq7i7ckvkt74dcpgpm3dq5r2lio3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAyUJ4v1n5siij0xgjqz1eTRs7bUSeRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085239346676-9j5eq7i7ckvkt74dcpgpm3dq5r2lio3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
